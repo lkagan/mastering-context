@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.wrapper {
+  border: solid 1px #ccc;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 3px;
+}
